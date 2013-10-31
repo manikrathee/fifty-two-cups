@@ -1,7 +1,7 @@
 52 Cups Of Coffee
 ==============
 
-One cup of coffee a week with someone new - inspired by [52cups.com](52cups.com)
+One cup of coffee a week with someone new - originally created by [@megangebhart](https://twitter.com/megangebhart) & [52cups.com](52cups.com)
 
 
 ---
