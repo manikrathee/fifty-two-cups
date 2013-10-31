@@ -1,0 +1,33 @@
+/* Variables */
+  // Color
+  $white: rgba(255,255,255,1); /* #ffffff */
+  $off-white: rgba(243,243,243,1); /* #f3f3f3 */
+  $black: rgba(21,19,20,1); /* #151314 */
+  $dark-grey: rgba(31,36,40,1); // #1f2428
+  $grey: rgba(136,136,136,1); /* #888888 */
+  $grey-blue:     rgba(236,237,239,1); // #ecedef
+  $blue:          rgba(5,44,88,1); // #052c58
+  $text: rgba(126,129,139,1); // #7e818b (Grey)
+    //Alt Colors
+  $green:       rgba(72,193,101,1); // #48c165
+  $red:           rgba(224,68,54,1); // #e04436
+  $orange:        rgba(245,127,0,1); // #f57f00
+    // Social Service Brand Colors
+  $facebook:      rgba(59,89,152,1); // #3b5998
+  $twitter:       rgba(0,160,209,1); // #00a0d1
+  $soundcloud:    rgba(255,119,0,1); // #ff7700
+  $youtube:       rgba(196,48,43,1); // #c4302b
+  $songkick:      rgba(248,0,70,1); // #f80046
+  $lastfm:        rgba(203,15,16,1); // #cb0f10
+  $pandora:       rgba(0,86,145,1); // #005691
+  $tumblr:        rgba(52,82,111,1); // #34526f
+
+  // Font Stack
+  $prox:  "proxima-nova", helvetica, tahoma, verdana, sans-serif;
+  $serif:  "jubilat", sans-serif;
+
+
+  // Elements
+  $divider: 1px solid lighten($blue, 18%);
+  $divider-color: rgba(228,228,228,1); // #e4e4e4
+  $placeholder: lighten($black, 30%);

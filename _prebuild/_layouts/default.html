@@ -1,0 +1,10 @@
+	{% include global-header.html %}
+
+	<body {% if page.body-class %}class="{{ page.body-class }}"{% endif %}>
+
+	{{ content }}
+
+  {% include global-footer.html %}
+
+</body>
+</html>

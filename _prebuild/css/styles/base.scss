@@ -1,0 +1,57 @@
+/* Base Styles */
+
+  // Highlights
+::-moz-selection{ background: #333; color:#fff; text-shadow: none; }
+::selection { background:#333; color:#fff; text-shadow: none; }
+a:link { -webkit-tap-highlight-color: none; }
+
+  // Global Elements $global
+html, body {
+  width: 100%;
+  max-width: 100%;
+}
+body {
+  color: $white;
+  font-family: $prox;
+  font-weight: normal;
+  font-size: 14px;
+  -webkit-backface-visibility: hidden;
+  text-rendering: optimizelegibility;
+}
+div, ul, ol, header, nav, section {
+  @include box;
+}
+ul, ol {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  line-height: 1;
+}
+p {
+  margin: 0;
+  line-height: 1;
+}
+a {
+  color: $text;
+  text-decoration: none;
+  @include transition(color 0.25s linear);
+  &:hover {
+    color: $blue;
+  }
+}
+img {
+  max-width: 100%;
+}
+  // $Symbolset
+// .ss-icon {
+//   font-style: normal;
+//   font-weight: normal;
+//   text-decoration: none;
+//   text-rendering: optimizeLegibility;
+//   white-space: nowrap;
+//   -webkit-font-smoothing: antialiased;
+//   vertical-align: middle;
+// }
