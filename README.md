@@ -7,10 +7,10 @@ One cup of coffee a week with someone new - originally created by [@megangebhart
 
 Fork this repo, run [code]npm install[/code], and go meet people.
 
-  $ git clone git@github.com:manikrathee/fifty-two-cups.git
-  $ cd fifty-two-cups
-  $ npm install
-  $ grunt w
+    $ git clone git@github.com:manikrathee/fifty-two-cups.git
+    $ cd fifty-two-cups
+    $ npm install
+    $ grunt w
 
 Server at: http://localhost:4000
 
