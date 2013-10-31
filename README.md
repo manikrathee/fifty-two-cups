@@ -3,7 +3,7 @@
 
 One cup of coffee a week with someone new - originally created by [@megangebhart](https://twitter.com/megangebhart) & [52cups.com](52cups.com)
 
----
+==============
 
 Fork this repo, run [code]npm install[/code], and go meet people.
 
@@ -14,7 +14,7 @@ Fork this repo, run [code]npm install[/code], and go meet people.
 
 Server at: http://localhost:4000
 
----
+==============
 
 ### Cup 1 - Firstname LastName
 - Title, San Francisco, CA
