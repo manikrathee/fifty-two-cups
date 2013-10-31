@@ -39,15 +39,6 @@ module.exports = function(grunt) {
         }
       }
     },
-    jekyll: {
-      dist: {
-        options: {
-          config: '_config.yml'
-        }
-      },
-      serve: {
-      },
-    },
     imagemin: {
       dynamic: {
         options: {
@@ -61,6 +52,14 @@ module.exports = function(grunt) {
           dest: '_site/img/'
         }]
       }
+    },
+    jekyll: {
+      dist: {
+        options: {
+          config: '_config.yml',
+          serve: true,
+        }
+      },
     },
   });
 

@@ -3,3 +3,4 @@ exclude: ['gruntfile.js', 'package.json', '/node_modules']
 keep_files:  ['.git']
 safe: false
 lsi: true
+post: 4000
