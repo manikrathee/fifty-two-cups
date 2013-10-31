@@ -1,4 +1,4 @@
-fifty-two-cups
+52 Cups Of Coffee
 ==============
 
 One cup of coffee a week with someone new - inspired by [52cups.com](52cups.com)
